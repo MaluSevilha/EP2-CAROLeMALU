@@ -9,13 +9,13 @@ EXERCÍCIOS A SEREM RESOLVIDOS:
 
 (3) EP2 - Faz jogada #Resolvido
 
-(4) EP2 - Posiciona Frota
+(4) EP2 - Posiciona Frota #Resolvido
 
-(5) EP2 - Quantas embarcações afundadas?
+(5) EP2 - Quantas embarcações afundadas? #Resolvido
 
-(6) EP2 - Posição Válida
+(6) EP2 - Posição Válida #Resolvido
 
-(7) EP2 - Posicionando Frota
+(7) EP2 - Posicionando Frota #Resolvido
 
 (8) EP2 - Jogadas do jogador
 
