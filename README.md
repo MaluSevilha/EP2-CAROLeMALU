@@ -17,6 +17,6 @@ EXERCÍCIOS A SEREM RESOLVIDOS:
 
 (7) EP2 - Posicionando Frota #Resolvido
 
-(8) EP2 - Jogadas do jogador
+(8) EP2 - Jogadas do jogador #Resolvido
 
-(9) EP2 - Jogadas do Oponente
+(9) EP2 - Jogadas do Oponente #Resolvido
